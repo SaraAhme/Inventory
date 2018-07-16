@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">validation</string>
+    <string name="action_insert_tulip_data">Insert Tulip Data</string>
+    <string name="action_delete_all_entries">Delete All flowers</string>
+    <string name="editor_activity_title_new_pet">Add a flower</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="flower_supplier">Supplier</string>
+    <string name="hint_flower_supplier">Supplier</string>
+
+    <string name="flower_supplier_phone">Phone</string>
+    <string name="hint_supplier_phone">Phone</string>
+
+    <string name="flower_quantity">Quantity</string>
+    <string name="hint_flower_quantity">Quantity</string>
+
+    <string name="flower_price">Price</string>
+    <string name="hint_flower_price">Price</string>
+    <string name="unit_of_price">$</string>
+
+    <string name="flower_name">Name</string>
+    <string name="hint_flower_name">Name</string>
+    <string name="editor_insert_flower_failed">flower saved</string>
+    <string name="editor_insert_flower_successful">Flower saved successfully </string>
+    <string name="empty_view_title_text">It\'s a flower lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a flower</string>
+    <string name="editor_activity_title_edit_flower">Edit flower</string>
+    <string name="editor_update_flower_failed">editor_update_flower_failed</string>
+    <string name="editor_update_flower_successful">editor_update_flower_successful</string>
+    <string name="editor_delete_flower_successful">  flower deleted</string>
+    <string name="editor_delete_flower_failed">Error with deleting flower</string>
+    <string name="delete_dialog_msg">Delete this flower?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="unknown_supplier">Unknown Supplier</string>
+
+
+</resources>
